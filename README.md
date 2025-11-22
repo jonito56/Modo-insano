@@ -1,2 +1,15 @@
-# Modo-insano
-nose
+place(-5.562, 1.000, -23.314, "Shotgunner", 300)
+place(-3.258, 1.000, -23.014, "Shotgunner", 300)
+place(-0.502, 1.000, -23.341, "Shotgunner", 300)
+place(1.560, 1.000, -23.457, "Shotgunner", 300)
+place(3.763, 1.000, -23.675, "Shotgunner", 300)
+place(6.219, 1.000, -23.574, "Shotgunner", 300)
+place(7.451, 1.000, -21.575, "Shotgunner", 300)
+place(7.523, 1.000, -21.233, "Shotgunner", 300)
+place(8.239, 1.000, -18.605, "Shotgunner", 300)
+upgrade(3.763, 2.350, -23.675, 150)
+upgrade(3.763, 2.350, -23.675, 950)
+upgrade(1.560, 2.350, -23.457, 150)
+upgrade(1.560, 2.350, -23.457, 950)
+upgrade(-0.502, 2.350, -23.341, 150)
+upgrade(-0.502, 2.350, -23.341, 950)
